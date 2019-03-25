@@ -1,1 +1,1 @@
-Linux kernel 2.2.x
+Linux kernel 2.0.40
